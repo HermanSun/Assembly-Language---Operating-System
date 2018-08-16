@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/11/3 0:49:27。
+     1>项目“C:\Users\HermanSun\documents\visual studio 2013\Projects\CSCI2510 Assignment2\CSCI2510 Assignment2\CSCI2510 Assignment2.vcxproj”在节点 2 上(Build 个目标)。
+     1>_MASM:
+         Assembling readbyte.asm...
+         cmd.exe /C "C:\Users\HermanSun\AppData\Local\Temp\tmp593ac83d2b0f4107899ad33e67fcf2a7.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\readbyte.obj" /I "C:\masm32\include" /W3 /errorReport:prompt  /Tareadbyte.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\HermanSun\documents\visual studio 2013\Projects\CSCI2510 Assignment2\Debug\CSCI2510 Assignment2.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\masm32\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\HermanSun\documents\visual studio 2013\Projects\CSCI2510 Assignment2\Debug\CSCI2510 Assignment2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\HermanSun\documents\visual studio 2013\Projects\CSCI2510 Assignment2\Debug\CSCI2510 Assignment2.lib" /MACHINE:X86 Debug\readbyte.obj
+         CSCI2510 Assignment2.vcxproj -> C:\Users\HermanSun\documents\visual studio 2013\Projects\CSCI2510 Assignment2\Debug\CSCI2510 Assignment2.exe
+     1>已完成生成项目“C:\Users\HermanSun\documents\visual studio 2013\Projects\CSCI2510 Assignment2\CSCI2510 Assignment2\CSCI2510 Assignment2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.51

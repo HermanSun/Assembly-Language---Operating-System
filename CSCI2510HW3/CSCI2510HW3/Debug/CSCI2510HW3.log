@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/11/24 23:12:17。
+     1>项目“c:\Users\hermansun\documents\visual studio 2013\Projects\CSCI2510HW3\CSCI2510HW3\CSCI2510HW3.vcxproj”在节点 2 上(Build 个目标)。
+     1>_MASM:
+         Assembling CSCI2510HW3.asm...
+         cmd.exe /C "C:\Users\HermanSun\AppData\Local\Temp\tmp1a75eb510b054dfd862e4d031b8d48fe.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\CSCI2510HW3.obj" /I "C:\masm32\include" /W3 /errorReport:prompt  /TaCSCI2510HW3.asm
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\hermansun\documents\visual studio 2013\Projects\CSCI2510HW3\Debug\CSCI2510HW3.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\masm32\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\hermansun\documents\visual studio 2013\Projects\CSCI2510HW3\Debug\CSCI2510HW3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\hermansun\documents\visual studio 2013\Projects\CSCI2510HW3\Debug\CSCI2510HW3.lib" /MACHINE:X86 Debug\CSCI2510HW3.obj
+         CSCI2510HW3.vcxproj -> c:\users\hermansun\documents\visual studio 2013\Projects\CSCI2510HW3\Debug\CSCI2510HW3.exe
+     1>已完成生成项目“c:\Users\hermansun\documents\visual studio 2013\Projects\CSCI2510HW3\CSCI2510HW3\CSCI2510HW3.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.08
